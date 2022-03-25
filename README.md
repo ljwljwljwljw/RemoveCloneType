@@ -5,5 +5,5 @@ require gawk > 4.1.0
 
 In your chisel project:
 ```shell
-sh repl.sh ./src
+sh remove.sh ./src
 ```
